@@ -75,9 +75,8 @@ export const translations = {
       "5 Live, 4k, FPS 30, Bit 12000", 
       "Support YouTube & Facebook",
       "Fitur Penjadwalan Youtube",
-      "Bandwith Unlimited",
-      "Sistem Pakai Domain",
-      "Penyimpanan 25GB (Cukup)",
+      "Bandwith 20TB (Pindah Server Baru Jika Habis)",
+      "Penyimpanan 40GB",
       "Support Banyak Channel Youtube"
     ],
     proFeatures: [
@@ -88,7 +87,7 @@ export const translations = {
       "Fitur Penjadwalan Youtube",
       "Bandwith Unlimited",
       "Sistem Pakai Domain",
-      "Penyimpanan 37GB (Sangat Cukup)",
+      "Penyimpanan 60GB",
       "Support Banyak Channel Youtube"
     ],
     businessFeatures: [
@@ -99,7 +98,7 @@ export const translations = {
       "Fitur Penjadwalan Youtube",
       "Bandwith Unlimited",
       "Sistem Pakai Domain",
-      "Penyimpanan 77GB (Lebih Dari Cukup)",
+      "Penyimpanan 80GB",
       "Support Banyak Channel Youtube"
     ],
     
